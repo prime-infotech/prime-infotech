@@ -1,1 +1,1 @@
-git push https://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@github.com/express-technologies/express-technologies
+git push https://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@github.com/express-technologies/express-technologies.git

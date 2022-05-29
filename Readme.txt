@@ -1,5 +1,5 @@
-- 👋 Hi, we're Express Technologies
-- 👀 We're interested in ... crypto, web, movies, music and magic
+- 👋 Hi, we're Prime Infotech
+- 👀 We're interested in ... web, crypto, movies, music and magic
 - 🌱 We're currently learning ... blockchain development
 - 💞️ We're looking to collaborate on ... any crypto project
-- 📫 How to reach us ... expresstechnologies44@gmail.com
+- 📫 How to reach us ... primeinfotech44@gmail.com

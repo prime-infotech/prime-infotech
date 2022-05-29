@@ -1,1 +1,1 @@
-git push https://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@github.com/express-technologies/express-technologies.git
+git push https://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@github.com/prime-infotech/prime-infotech.git
